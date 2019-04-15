@@ -29,7 +29,7 @@
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#^1.2.3",
-    "google-apis": "zawarski/google-apis#apiKeyChange",
+    "google-apis": "zawarski/google-apis-eti#apiKeyChange",
     "iron-resizable-behavior": "PolymerElements/iron-resizable-behavior#^1.0.0",
     "iron-selector": "PolymerElements/iron-selector#^1.0.5"
   },
